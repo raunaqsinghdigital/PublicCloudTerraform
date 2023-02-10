@@ -1,4 +1,4 @@
-# The configuration for the `remote` backend.
+# The configuration for the `remote` backend. U
 terraform {
   backend "remote" {
     # The name of your Terraform Cloud organization.
