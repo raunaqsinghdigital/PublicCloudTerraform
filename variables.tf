@@ -6,6 +6,6 @@ variable "region" {}
 
 variable "zone" {}
 
-variable "db_name" {}
+#variable "db_name" {}
 
 
