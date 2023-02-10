@@ -2,16 +2,10 @@ variable "project" {}
 
 variable "credentials" {}
 
-variable "region" {
-#  default = "us-central1"
-}
+variable "region" {}
 
-variable "zone" {
-#  default = "us-central1-c"
-}
+variable "zone" {}
 
-variable "db_name" {
-#  default = "demo_postgresPaaS_db"
-}
+variable "db_name" {}
 
 
